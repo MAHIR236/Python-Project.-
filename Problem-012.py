@@ -1,0 +1,1 @@
+# Finding remainder using modulus operatornum1 = int(input("Please provide the dividend: "))num2 = int(input("Please provide the divisor: "))remainder = num1 % num2print("The remainder is:", remainder) "))

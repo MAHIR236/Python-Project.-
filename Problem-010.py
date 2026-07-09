@@ -1,0 +1,1 @@
+# Multiplying two user inputted numbersnum1 = float(input("Give me a number : "))num2 = float(input("Now give me another number : "))product = num1 * num2print(f" Processing...\n Result is: {product}")
