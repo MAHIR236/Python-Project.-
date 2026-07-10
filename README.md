@@ -1,4 +1,4 @@
-# Python-Project
+# 🐍 Python-Project
 
 Python practice project for CST 2nd Semester coursework.
 
@@ -22,13 +22,18 @@ individual practice problem, covering fundamental Python concepts.
 
 Clone the repository and run any file individually:
 
-```bash
-python Problem-001.py
+    python Problem-001.py
 
 ## 👤 Author
 
-Mahirkhan
+**Mahir Khan**  
+CST Student, Cox's Bazar Government Polytechnic Institute  
+Community: Codeforge
 
 ## 📄 License
 
 This project is open for educational use. Feel free to explore and learn from the code.
+
+## 📌 Status
+
+🚧 Work in progress — new problems added regularly.
